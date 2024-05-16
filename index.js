@@ -56,7 +56,7 @@ iooi[Math.floor(Math.random()*iooi.length)]; // button 1 ใส่ชื่อ
     const r = new Discord.RichPresence()
       .setApplicationId('1112701450150232085')
       .setType('STREAMING')
-      .setURL('https://www.twitch.tv')
+      .setURL('https://www.youtube.com/watch?v=R-pyqIFbjIY')
       .setState(`（  ${getTime()} ） • （ ${moment().format('DD/MM/YYYY')} ）`)
       .setName(`RobShop`)
       .setDetails(`ความรักก็เหมือน อิเล็กตรอนกับนิวเคลียร์ทำได้แค่อยู่รอบๆเข้าใกล้ไม่ได้`)
